@@ -65,3 +65,5 @@ WebUI.click(findTestObject('Object Repository/Page_AccelRx/path_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_AccelRx/span_Log Out'))
 
+WebUI.closeBrowser()
+
