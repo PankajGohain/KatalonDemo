@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>fc8b1081-03a9-41a2-8d82-69b088dd6dad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.mdi-icon.hamburger-icon > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[1]/div[1]/header[@class=&quot;MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorDefault jss20 mui-fixed MuiPaper-elevation4&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-sm-3&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-justify-xs-flex-end&quot;]/div[@class=&quot;MuiGrid-root jss22 MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;jss22&quot;]/div[1]/div[1]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root notification-base&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/span[1]/svg[@class=&quot;mdi-icon hamburger-icon&quot;]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

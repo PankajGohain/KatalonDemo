@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>2feff396-830a-4275-810b-80a2d5071117</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root-294&quot;]/div[@class=&quot;MuiDialog-container-297 MuiDialog-scrollPaper-295&quot;]/div[@class=&quot;MuiPaper-root-393 MuiDialog-paper-298 MuiPickersModal-dialogRoot-290 MuiDialog-paperScrollPaper-299 MuiDialog-paperWidthSm-303 MuiPaper-elevation24-420 MuiPaper-rounded-394&quot;]/div[@class=&quot;MuiDialogContent-root-421 MuiPickersModal-dialog-292&quot;]/div[@class=&quot;MuiPickersBasePicker-container-423&quot;]/div[@class=&quot;MuiPickersBasePicker-pickerView-425&quot;]/div[1]/div[@class=&quot;MuiPickersCalendarHeader-switchHeader-525&quot;]/button[@class=&quot;MuiButtonBase-root-280 MuiIconButton-root-272 MuiPickersCalendarHeader-iconButton-527&quot;]/span[@class=&quot;MuiIconButton-label-279&quot;]/svg[@class=&quot;MuiSvgIcon-root-281&quot;]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
